@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Paul Balogh</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Paul Balogh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0500</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CloudNative</title>
+      <link>/tags/cloudnative/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0500</pubDate>
+      
+      <guid>/tags/cloudnative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go</title>
+      <link>/tags/go/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0500</pubDate>
+      
+      <guid>/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kubernetes</title>
+      <link>/tags/kubernetes/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0500</pubDate>
+      
+      <guid>/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Organizer</title>
+      <link>/tags/organizer/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0500</pubDate>
+      
+      <guid>/tags/organizer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speaker</title>
+      <link>/tags/speaker/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0500</pubDate>
+      
+      <guid>/tags/speaker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>/tags/git/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0500</pubDate>
+      
+      <guid>/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grafana</title>
+      <link>/tags/grafana/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0500</pubDate>
+      
+      <guid>/tags/grafana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>k6</title>
+      <link>/tags/k6/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0500</pubDate>
+      
+      <guid>/tags/k6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LoadTesting</title>
+      <link>/tags/loadtesting/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0500</pubDate>
+      
+      <guid>/tags/loadtesting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prometheus</title>
+      <link>/tags/prometheus/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0500</pubDate>
+      
+      <guid>/tags/prometheus/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
