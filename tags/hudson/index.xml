@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hudson on Paul Balogh</title>
+    <title>Hudson on paul balogh</title>
     <link>/tags/hudson/</link>
-    <description>Recent content in Hudson on Paul Balogh</description>
+    <description>Recent content in Hudson on paul balogh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Wed, 01 Apr 2009 00:00:00 +0500</lastBuildDate><atom:link href="/tags/hudson/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Agilis Systems</title>
+      <title>Agilis Systems (now Linxup)</title>
       <link>/experience/agilis/</link>
       <pubDate>Wed, 01 Apr 2009 00:00:00 +0500</pubDate>
       
       <guid>/experience/agilis/</guid>
-      <description>Senior Java Developer</description>
+      <description>My experience with Agilis Systems</description>
     </item>
     
     <item>
@@ -23,7 +23,7 @@
       <pubDate>Thu, 01 Mar 2007 00:00:00 +0500</pubDate>
       
       <guid>/experience/ibm/</guid>
-      <description>Staff Software Engineer</description>
+      <description>My experience with IBM</description>
     </item>
     
   </channel>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Experience on Paul Balogh</title>
+    <title>Experience on paul balogh</title>
     <link>/experience/</link>
-    <description>Recent content in Experience on Paul Balogh</description>
+    <description>Recent content in Experience on paul balogh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
@@ -14,7 +14,7 @@
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0500</pubDate>
       
       <guid>/experience/kube-cloudnative-stl/</guid>
-      <description>Community Organizer</description>
+      <description>My experience with the KCN-STL Meetup</description>
     </item>
     
     <item>
@@ -23,7 +23,7 @@
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0500</pubDate>
       
       <guid>/experience/grafana/</guid>
-      <description>Developer Advocate</description>
+      <description>My experience with Grafana</description>
     </item>
     
     <item>
@@ -32,7 +32,7 @@
       <pubDate>Wed, 01 May 2019 00:00:00 +0500</pubDate>
       
       <guid>/experience/stlgomeetup/</guid>
-      <description>Community Organizer</description>
+      <description>My experience with the St. Louis Golang Meetup</description>
     </item>
     
     <item>
@@ -41,7 +41,7 @@
       <pubDate>Fri, 01 Aug 2014 00:00:00 +0500</pubDate>
       
       <guid>/experience/manning/</guid>
-      <description>Technical Manuscript Reviewer</description>
+      <description>My experience with Manning</description>
     </item>
     
     <item>
@@ -50,7 +50,7 @@
       <pubDate>Wed, 01 May 2013 00:00:00 +0500</pubDate>
       
       <guid>/experience/nisc/</guid>
-      <description>Lead Software Architect</description>
+      <description>My experience with NISC</description>
     </item>
     
     <item>
@@ -59,7 +59,7 @@
       <pubDate>Wed, 01 Feb 2012 00:00:00 +0500</pubDate>
       
       <guid>/experience/citi/</guid>
-      <description>Technical Lead</description>
+      <description>My experience with Citi</description>
     </item>
     
     <item>
@@ -68,16 +68,16 @@
       <pubDate>Tue, 01 Jun 2010 00:00:00 +0500</pubDate>
       
       <guid>/experience/enchoice/</guid>
-      <description>Senior Software Developer</description>
+      <description>My experience with enChoice</description>
     </item>
     
     <item>
-      <title>Agilis Systems</title>
+      <title>Agilis Systems (now Linxup)</title>
       <link>/experience/agilis/</link>
       <pubDate>Wed, 01 Apr 2009 00:00:00 +0500</pubDate>
       
       <guid>/experience/agilis/</guid>
-      <description>Senior Java Developer</description>
+      <description>My experience with Agilis Systems</description>
     </item>
     
     <item>
@@ -86,7 +86,7 @@
       <pubDate>Thu, 01 Mar 2007 00:00:00 +0500</pubDate>
       
       <guid>/experience/ibm/</guid>
-      <description>Staff Software Engineer</description>
+      <description>My experience with IBM</description>
     </item>
     
     <item>
@@ -95,7 +95,7 @@
       <pubDate>Sat, 01 Apr 2006 00:00:00 +0500</pubDate>
       
       <guid>/experience/citihomeequity/</guid>
-      <description>Java/VB Developer</description>
+      <description>My experience with Citi HomeEquity</description>
     </item>
     
   </channel>

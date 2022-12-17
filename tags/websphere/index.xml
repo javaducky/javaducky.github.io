@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>WebSphere on Paul Balogh</title>
+    <title>WebSphere on paul balogh</title>
     <link>/tags/websphere/</link>
-    <description>Recent content in WebSphere on Paul Balogh</description>
+    <description>Recent content in WebSphere on paul balogh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
@@ -14,7 +14,7 @@
       <pubDate>Thu, 01 Mar 2007 00:00:00 +0500</pubDate>
       
       <guid>/experience/ibm/</guid>
-      <description>Staff Software Engineer</description>
+      <description>My experience with IBM</description>
     </item>
     
   </channel>

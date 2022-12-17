@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SOAP on Paul Balogh</title>
+    <title>SOAP on paul balogh</title>
     <link>/tags/soap/</link>
-    <description>Recent content in SOAP on Paul Balogh</description>
+    <description>Recent content in SOAP on paul balogh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
@@ -14,7 +14,7 @@
       <pubDate>Wed, 01 Feb 2012 00:00:00 +0500</pubDate>
       
       <guid>/experience/citi/</guid>
-      <description>Technical Lead</description>
+      <description>My experience with Citi</description>
     </item>
     
     <item>
@@ -23,7 +23,7 @@
       <pubDate>Tue, 01 Jun 2010 00:00:00 +0500</pubDate>
       
       <guid>/experience/enchoice/</guid>
-      <description>Senior Software Developer</description>
+      <description>My experience with enChoice</description>
     </item>
     
     <item>
@@ -32,7 +32,7 @@
       <pubDate>Sun, 01 Jun 1997 00:00:00 +0500</pubDate>
       
       <guid>/experience/citigroup/</guid>
-      <description>Sr. Project Manager</description>
+      <description>My experience with Citigroup</description>
     </item>
     
   </channel>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>LoadTesting on Paul Balogh</title>
+    <title>LoadTesting on paul balogh</title>
     <link>/tags/loadtesting/</link>
-    <description>Recent content in LoadTesting on Paul Balogh</description>
+    <description>Recent content in LoadTesting on paul balogh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
@@ -14,7 +14,7 @@
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0500</pubDate>
       
       <guid>/experience/grafana/</guid>
-      <description>Developer Advocate</description>
+      <description>My experience with Grafana</description>
     </item>
     
   </channel>
