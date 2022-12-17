@@ -17,5 +17,14 @@
       <description>My experience with enChoice</description>
     </item>
     
+    <item>
+      <title>Citigroup</title>
+      <link>/experience/citigroup/</link>
+      <pubDate>Sun, 01 Jun 1997 00:00:00 +0500</pubDate>
+      
+      <guid>/experience/citigroup/</guid>
+      <description>My experience with Citigroup</description>
+    </item>
+    
   </channel>
 </rss>

@@ -56,6 +56,9 @@
     <loc>/experience/manning/</loc>
     <lastmod>2014-08-01T00:00:00+05:00</lastmod>
   </url><url>
+    <loc>/tags/reviewer/</loc>
+    <lastmod>2014-08-01T00:00:00+05:00</lastmod>
+  </url><url>
     <loc>/tags/aws/</loc>
     <lastmod>2013-05-01T00:00:00+05:00</lastmod>
   </url><url>
@@ -134,10 +137,10 @@
     <loc>/tags/soap/</loc>
     <lastmod>2012-02-01T00:00:00+05:00</lastmod>
   </url><url>
-    <loc>/tags/websphere-application-server/</loc>
+    <loc>/tags/websphere/</loc>
     <lastmod>2012-02-01T00:00:00+05:00</lastmod>
   </url><url>
-    <loc>/tags/csharp/</loc>
+    <loc>/tags/c#/</loc>
     <lastmod>2010-06-01T00:00:00+05:00</lastmod>
   </url><url>
     <loc>/experience/enchoice/</loc>
@@ -161,7 +164,7 @@
     <loc>/tags/sql-server/</loc>
     <lastmod>2010-06-01T00:00:00+05:00</lastmod>
   </url><url>
-    <loc>/tags/websphere-portal-server/</loc>
+    <loc>/tags/websphere-portal/</loc>
     <lastmod>2010-06-01T00:00:00+05:00</lastmod>
   </url><url>
     <loc>/tags/activemq/</loc>
@@ -171,9 +174,6 @@
     <lastmod>2009-04-01T00:00:00+05:00</lastmod>
   </url><url>
     <loc>/tags/apache/</loc>
-    <lastmod>2009-04-01T00:00:00+05:00</lastmod>
-  </url><url>
-    <loc>/tags/c#/</loc>
     <lastmod>2009-04-01T00:00:00+05:00</lastmod>
   </url><url>
     <loc>/tags/hudson/</loc>
@@ -218,16 +218,13 @@
     <loc>/tags/tomcat/</loc>
     <lastmod>2007-03-01T00:00:00+05:00</lastmod>
   </url><url>
-    <loc>/tags/websphere/</loc>
-    <lastmod>2007-03-01T00:00:00+05:00</lastmod>
-  </url><url>
     <loc>/tags/zos/</loc>
     <lastmod>2007-03-01T00:00:00+05:00</lastmod>
   </url><url>
     <loc>/experience/citihomeequity/</loc>
     <lastmod>2006-04-01T00:00:00+05:00</lastmod>
   </url><url>
-    <loc>/tags/visualbasic/</loc>
+    <loc>/tags/visual-basic/</loc>
     <lastmod>2006-04-01T00:00:00+05:00</lastmod>
   </url><url>
     <loc>/experience/cequel/</loc>
@@ -237,6 +234,9 @@
     <lastmod>2005-05-01T00:00:00+05:00</lastmod>
   </url><url>
     <loc>/tags/asp/</loc>
+    <lastmod>2002-01-01T00:00:00+05:00</lastmod>
+  </url><url>
+    <loc>/tags/entrepeneur/</loc>
     <lastmod>2002-01-01T00:00:00+05:00</lastmod>
   </url><url>
     <loc>/tags/linux/</loc>
@@ -261,9 +261,6 @@
     <lastmod>2002-01-01T00:00:00+05:00</lastmod>
   </url><url>
     <loc>/experience/citigroup/</loc>
-    <lastmod>1997-06-01T00:00:00+05:00</lastmod>
-  </url><url>
-    <loc>/tags/filenet-p8/</loc>
     <lastmod>1997-06-01T00:00:00+05:00</lastmod>
   </url><url>
     <loc>/tags/microsoft-access/</loc>
